@@ -1,5 +1,4 @@
 ---
-
 ## **🎬 OVERVIEW — ZACK AI KICKSTARTER VIDEO (AI-Generated Cinematic Style)**
 
 **Video length target:** ~2 minutes
@@ -9,20 +8,18 @@
 **Tone:** Warm, emotional, futuristic, trustworthy
 
 **Goal:** Blend emotional storytelling (parents + kids) with functional showcase (AI features, app, connectivity)
-
 ---
-
 ## **🧱 STRUCTURE — 7 SCENES (with narrative flow + feature placement)**
 
-| **Scene** | **Theme** | **Duration** | **Focus** | **Visual Type** |
-| --- | --- | --- | --- | --- |
-| 1 | Problem / Hook | 0:00–0:15 | Kids’ screen addiction, loss of curiosity | Emotional stills + gentle motion |
-| 2 | Solution Intro | 0:15–0:30 | Zack AI awakens — the magical plush | Hero reveal animation |
-| 3 | Emotional Bond | 0:30–0:45 | Zack expresses, listens, understands | Close-ups, LED eyes, warmth |
-| 4 | Educational Power | 0:45–1:00 | AI internet learning, storytelling, languages | Smart + cozy vibe |
-| 5 | Parental Control | 1:00–1:15 | App, chat history, safety | Modern app visuals |
-| 6 | Smart Home Extension | 1:15–1:30 | Voice gateway to Heyzack ecosystem | Futuristic home scenes |
-| 7 | Founder & CTA | 1:30–2:00 | Vision, invitation, preorder | Emotional finale |
+| **Scene** | **Theme**      | **Duration** | **Focus**                               | **Visual Type**            |
+| --------------- | -------------------- | ------------------ | --------------------------------------------- | -------------------------------- |
+| 1               | Problem / Hook       | 0:00–0:15         | Kids’ screen addiction, loss of curiosity    | Emotional stills + gentle motion |
+| 2               | Solution Intro       | 0:15–0:30         | Zack AI awakens — the magical plush          | Hero reveal animation            |
+| 3               | Emotional Bond       | 0:30–0:45         | Zack expresses, listens, understands          | Close-ups, LED eyes, warmth      |
+| 4               | Educational Power    | 0:45–1:00         | AI internet learning, storytelling, languages | Smart + cozy vibe                |
+| 5               | Parental Control     | 1:00–1:15         | App, chat history, safety                     | Modern app visuals               |
+| 6               | Smart Home Extension | 1:15–1:30         | Voice gateway to Heyzack ecosystem            | Futuristic home scenes           |
+| 7               | Founder & CTA        | 1:30–2:00         | Vision, invitation, preorder                  | Emotional finale                 |
 
 ---
 
@@ -43,7 +40,6 @@ Each scene includes:
 **Narration:**
 
 > “Kids today live through screens. Curiosity fades behind glowing pixels. Parents wish for something real, warm, and alive.”
-> 
 
 **On-screen text:**
 
@@ -68,7 +64,6 @@ Each scene includes:
 **Narration:**
 
 > “Introducing Zack AI — the smart plush that listens, learns, and grows with your child.”
-> 
 
 **On-screen text:**
 
@@ -93,7 +88,6 @@ Each scene includes:
 **Narration:**
 
 > “Zack feels emotions through voice and tone. His LED eyes express joy, empathy, and curiosity — forming a real emotional bond.”
-> 
 
 **On-screen text:**
 
@@ -118,7 +112,6 @@ Each scene includes:
 **Narration:**
 
 > “Connected to the Internet through advanced AI, Zack answers questions, teaches languages, tells bedtime stories, and learns along the way — up to five hours of continuous conversation.”
-> 
 
 **On-screen text:**
 
@@ -143,7 +136,6 @@ Each scene includes:
 **Narration:**
 
 > “Parents can see summaries of conversations, moods, and learning progress through the Heyzack app — ensuring a safe and transparent experience.”
-> 
 
 **On-screen text:**
 
@@ -168,7 +160,6 @@ Each scene includes:
 **Narration:**
 
 > “Zack can also extend into your home — acting as a voice gateway for Heyzack smart devices. Turn off lights, play bedtime music, or set the room temperature — all through Zack’s friendly voice.”
-> 
 
 **On-screen text:**
 
@@ -193,7 +184,6 @@ Each scene includes:
 **Narration:**
 
 > “We built Zack AI to spark curiosity instead of distraction — to bring families closer, and to make learning magical again. Join us in bringing Zack AI to life.”
-> 
 
 **On-screen text:**
 
@@ -213,17 +203,10 @@ Each scene includes:
 
 ## **🧠 ADDITIONAL NOTES FOR AI VIDEO GENERATION**
 
-| **Element** | **Recommendation** |
-| --- | --- |
-| **Voice-over** | Use calm, warm male or female tone (e.g., ElevenLabs “warm narrator”) |
-| **Music** | Minimalist piano with soft synth; tempo around 80–100 BPM |
-| **Transitions** | Subtle cross-fade or parallax zoom-in between each slide |
-| **Resolution** | 16:9 (1920×1080) for Kickstarter HD upload |
-| **Color Palette** | Warm oranges, cozy yellows, soft blues (align with Heyzack branding) |
-
----
-
-Would you like me to now:
-
-1. Expand each **scene’s narration** into a *full sentence-level script* (for your voiceover timing and subtitles)?
-2. Or export this as a ready-to-use **JSON storyboard file** you can import directly into your AI video tool (like Runway, Kaiber, or Pika)?s
+| **Element**       | **Recommendation**                                                |
+| ----------------------- | ----------------------------------------------------------------------- |
+| **Voice-over**    | Use calm, warm male or female tone (e.g., ElevenLabs “warm narrator”) |
+| **Music**         | Minimalist piano with soft synth; tempo around 80–100 BPM              |
+| **Transitions**   | Subtle cross-fade or parallax zoom-in between each slide                |
+| **Resolution**    | 16:9 (1920×1080) for Kickstarter HD upload                             |
+| **Color Palette** | Warm oranges, cozy yellows, soft blues (align with Heyzack branding)    |
